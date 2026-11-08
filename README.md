@@ -41,6 +41,8 @@ saikat@nit-kolkata:~$ echo "Let's build something that matters." ▌
 <td width="50%" valign="top">
 
 ```yaml
+
+
 CLASS      : Full-Stack Developer (Apprentice)
 GUILD      : Narula Institute of Technology
 HOME BASE  : Kolkata, West Bengal
@@ -53,6 +55,8 @@ LEVEL UP IN PROGRESS
 <td width="50%" valign="top">
 
 ```text
+
+
 C           ███████░░░  70%
 PYTHON      ████████░░  80%
 JAVA        ███████░░░  70%
