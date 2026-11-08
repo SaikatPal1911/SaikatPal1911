@@ -1,144 +1,147 @@
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saikat%20Pal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Information%20Technology%20%7C%20Narula%20Institute%20of%20Technology&descColor=a8d8ea&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1b1464,75:7928ca,100:00d4ff&height=230&section=header&text=Saikat%20Pal&fontSize=72&fontColor=ffffff&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=Information%20Technology%20%C2%B7%20Narula%20Institute%20of%20Technology&descSize=18&descColor=ffffff&descAlignY=58&animation=fadeIn" alt="Saikat Pal" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%26+Django+Enthusiast+%F0%9F%90%8D;DSA+Problem+Solver+%E2%9A%94%EF%B8%8F;IT+Student+%40+NIT+Kolkata+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+IT+undergrad+%40+Narula+Institute+of+Technology;%24+building+%E2%86%92+AI+products+that+solve+real+problems;%24+stack+%E2%86%92+Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Java+%C2%B7+SQL;%24+goal+%E2%86%92+ship+fast%2C+learn+faster+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
-</div>
 
----
-
-## 👨‍💻 About Me
-
-```python
-class SaikatPal:
-    def __init__(self):
-        self.name        = "Saikat Pal"
-        self.role        = "IT Student & Aspiring Full-Stack Developer"
-        self.college     = "Narula Institute of Technology, Kolkata"
-        self.location    = "Kolkata, West Bengal, India 🇮🇳"
-        self.languages   = ["Python", "Java", "C", "JavaScript", "TypeScript", "R", "MATLAB"]
-        self.web         = ["HTML", "CSS", "React", "Node.js", "Django"]
-        self.databases   = ["MySQL", "Excel (Data Analysis)"]
-        self.os          = ["Linux", "Windows"]
-        self.interests   = ["DSA", "Software Engineering", "Electronics", "Automata Theory"]
-        self.currently   = "Building cool projects & mastering DSA 🔥"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-
-me = SaikatPal()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Data
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🖥️ Operating Systems & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/>
-</p>
-
-### 📚 Core CS Knowledge
-<p>
-  <img src="https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-0078D7?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software_Engineering-6DB33F?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-7952B3?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automata_Theory-E34F26?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analog_Electronics-FF6F00?style=for-the-badge&logo=electron&logoColor=white"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatPal1911&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🌱 Currently Learning & Goals
-
-- 🔭 Building a **Full Stack Web App** with React + Django
-- 🌱 Strengthening **Data Structures & Algorithms** in Java & Python
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Dev, Python, DSA, Linux**
-- ⚡ Fun fact: I debug with `print()` and I'm not ashamed 😄
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikat-pal-39793232b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palsaikat828@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaikatPal1911)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saikatpal05?igsh=OGk1OHpoZnlnY2lu)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaikatPal191)
+<img src="https://komarev.com/ghpvc/?username=SaikatPal1911&label=PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/Kolkata-India-1b1464?style=for-the-badge&labelColor=0d1117" alt="location"/>
 
 </div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
 
 <br/>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<!-- ═══════════════════ TERMINAL ═══════════════════ -->
+## `>_` boot sequence
+
+```bash
+saikat@nit-kolkata:~$ ./about_me.sh
+
+[ OK ] Loading identity .............. Saikat Pal
+[ OK ] Degree ........................ B.Tech, Information Technology (2024 – 2028)
+[ OK ] Institute ..................... Narula Institute of Technology, Agarpara
+[ OK ] Currently ..................... Building AI-powered platforms + grinding DSA
+[ OK ] Open to ....................... Internships · Collabs · Open-source
+
+saikat@nit-kolkata:~$ echo "Let's build something that matters." ▌
+```
+
+<br/>
+
+<!-- ═══════════════════ CHARACTER SHEET ═══════════════════ -->
+## 🎮 Developer Character Sheet
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+CLASS      : Full-Stack Developer (Apprentice)
+GUILD      : Narula Institute of Technology
+HOME BASE  : Kolkata, West Bengal
+ALIGNMENT  : Curious · Consistent · Competitive
+
+LEVEL UP IN PROGRESS
+```
+
+</td>
+<td width="50%" valign="top">
+
+```text
+C           ███████░░░  70%
+PYTHON      ████████░░  80%
+JAVA        ███████░░░  70%
+DSA         ███████░░░  70%
+DJANGO      ███████░░░  70%
+SQL         ████████░░  80%
+FASTAPI     ██████░░░░  60%
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ SKILLS ═══════════════════ -->
+## ⚡ Skill Tree
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,py,java,html,css,django,fastapi,mysql,linux,git,github,vscode&perline=12&theme=dark" alt="skills" />
 
 </div>
+
+<details>
+<summary><b>🧠 Core CS &amp; Analytics (click to expand)</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7928ca?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-1b1464?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Architecture-00a6d6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-7928ca?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automata%20Theory-1b1464?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-00a6d6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7928ca?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistics-1b1464?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+## 📊 GitHub Telemetry
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SaikatPal1911&theme=tokyonight&hide_border=true&background=0d1117&ring=7928ca&fire=00d4ff&currStreakLabel=00d4ff" alt="streak" />
+
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ NOW ═══════════════════ -->
+## 🔭 Right Now
+
+- 🛠️ Building AI-driven web products with **Python + Django/FastAPI**
+- 🧩 Solving problems daily to sharpen **DSA** in Java and Python
+- 🎓 Learning on the job as an intern at **Beekshan Technology**
+- 🤝 Looking for **teammates** and **open-source** projects to contribute to
+- 💬 Ask me about: *Python, DSA, web dev, data analytics, Linux*
+- 😄 Fun fact: I debug with `print()` and I'm not ashamed
+
+<br/>
+
+<!-- ═══════════════════ OFF DUTY ═══════════════════ -->
+## 🎯 Off-Duty Mode
+
+`🎤 Recitation` &nbsp; `🧠 Quiz Competitions` &nbsp; `🏏 Cricket` &nbsp; `⚽ Football` &nbsp; `🌍 Geopolitics`
+
+<br/>
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## 📡 Open a Channel
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-pal-39793232b)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palsaikat828@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaikatPal191)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaikatPal1911)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=7928CA&center=true&vCenter=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson" alt="quote" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:7928ca,75:1b1464,100:0d1117&height=130&section=footer" alt="footer" />
