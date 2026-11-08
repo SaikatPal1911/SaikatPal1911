@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1b1464,75:7928ca,100:00d4ff&height=230&section=header&text=Saikat%20Pal&fontSize=72&fontColor=ffffff&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=Information%20Technology%20%C2%B7%20Narula%20Institute%20of%20Technology&descSize=18&descColor=ffffff&descAlignY=58&animation=fadeIn" alt="Saikat Pal" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+IT+undergrad+%40+Narula+Institute+of+Technology;%24+building+%E2%86%92+AI+products+that+solve+real+problems;%24+stack+%E2%86%92+Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Java+%C2%B7+SQL;%24+goal+%E2%86%92+ship+fast%2C+learn+faster+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=50&lines=%24+WhoamI?+%E2%86%92+IT+undergrad+%40+Narula+Institute+of+Technology;%24+building+%E2%86%92+AI+products+that+solve+real+problems;%24+stack+%E2%86%92+Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Java+%C2%B7+SQL;%24+goal+%E2%86%92+ship+fast%2C+learn+faster+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -70,31 +70,8 @@ FASTAPI     ██████░░░░  60%
 
 <!-- ═══════════════════ SKILLS ═══════════════════ -->
 ## ⚡ Skill Tree
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,py,java,html,css,django,fastapi,mysql,linux,git,github,vscode&perline=12&theme=dark" alt="skills" />
-
-</div>
-
-<details>
-<summary><b>🧠 Core CS &amp; Analytics (click to expand)</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7928ca?style=flat-square"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-1b1464?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-00a6d6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-7928ca?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automata%20Theory-1b1464?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-00a6d6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-7928ca?style=flat-square"/>
-<img src="https://img.shields.io/badge/Statistics-1b1464?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-
-</details>
-
-<br/>
-
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,py,java,html,css,django,fastapi,mysql,linux,git,github,vscode&perline=12&theme=dark"> <img src="https://skillicons.dev/icons?i=c,py,java,html,css,django,fastapi,mysql,linux,git,github,vscode&perline=12&theme=light" alt="skills" /> </picture> <br/>
+<table> <tr> <th align="left">Area</th> <th align="left">What I work with</th> </tr> <tr> <td><b>💻 Languages</b></td> <td>C · Python · Java</td> </tr> <tr> <td><b>🌐 Web</b></td> <td>HTML · CSS · Django · FastAPI</td> </tr> <tr> <td><b>🗄️ Data</b></td> <td>SQL · Excel · Statistics · Data Analytics</td> </tr> <tr> <td><b>🧠 CS Core</b></td> <td>DSA · Operating Systems · Computer Architecture · Computer Networks · Automata Theory · Software Engineering</td> </tr> <tr> <td><b>🔧 Tools</b></td> <td>Git · GitHub · VS Code · Linux · Google Colab</td> </tr> </table> <br/>
 <!-- ═══════════════════ STATS ═══════════════════ -->
 ## 📊 GitHub Telemetry
 
@@ -114,7 +91,9 @@ FASTAPI     ██████░░░░  60%
 
 - 🛠️ Building AI-driven web products with **Python + Django/FastAPI**
 - 🧩 Solving problems daily to sharpen **DSA** in Java and Python
+- 👁️ Currently working on projects in Computer Vision
 - 🎓 Learning on the job as an intern at **Beekshan Technology**
+- 📊 Working with data using SQL & Excel
 - 🤝 Looking for **teammates** and **open-source** projects to contribute to
 - 💬 Ask me about: *Python, DSA, web dev, data analytics, Linux*
 - 😄 Fun fact: I debug with `print()` and I'm not ashamed
@@ -129,7 +108,7 @@ FASTAPI     ██████░░░░  60%
 <br/>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
-## 📡 Open a Channel
+## 📡 Let's Connect
 
 <div align="center">
 
